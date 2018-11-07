@@ -1,0 +1,19 @@
+{
+	"name": "rassk09/admin",
+	"description": "CMS for Laravel 5.6",
+	"authors": [
+		{
+			"name": "rassk09",
+			"email": "rassk09@gmail.com"
+		}
+	],
+	"require": {
+		"php": ">=7.1.0",
+		"laravel/framework": "~5.6"
+	},
+	"autoload": {
+		"psr-0": {
+			"Rassk09\\Admin": "src/"
+		}
+	}
+}
